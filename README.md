@@ -1,2 +1,1 @@
 # Edumanager
-# Edumanager
